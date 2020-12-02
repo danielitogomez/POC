@@ -1,4 +1,4 @@
-# Deploy Google Cloud VM in a public-only single region with Terraform for testing
+# Deploy Google Cloud VM in a public-only single region with Terraform for testing...
 
 # Definition
 
